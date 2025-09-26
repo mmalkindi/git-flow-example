@@ -2,7 +2,7 @@
 
 > SDA
 
-- SKS: 4
+- SKS: 3
 - Semester: 3
 
 > DDP2 (Dasar-Dasar Pemrograman 2)
